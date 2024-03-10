@@ -1,4 +1,4 @@
-# Coffee Dashboard
+# Coffee Dashboard ☕
 
 ## An Excel Dashboard Showing the Sales of Coffee by Region, Country, and Top Customers 
 
